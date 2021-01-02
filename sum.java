@@ -8,6 +8,11 @@ c=300;
 b=120;
 c=a+b+c;
 System.out.println ("The sum of three values are "+c);
+//Substraction
+
+b=c-a;
+System.out.println("The B value is "+b);
+
 	}
 }
 //this is the Version Sum V1.0
