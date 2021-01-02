@@ -18,5 +18,15 @@ System.out.println("The B value is "+b);
 
 a=c/b;
 System.out.println("The division of Value "+a);
+
+
+	//multiplication
+	//
+	c=a*a;
+	System.out.println("The C value is here"+c);
+	}
 }
-//this is the Version Sum V1.2
+
+//this is the Version Sum V1.3
+
+
