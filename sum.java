@@ -13,6 +13,10 @@ System.out.println ("The sum of three values are "+c);
 b=c-a;
 System.out.println("The B value is "+b);
 
-	}
+
+//division
+
+a=c/b;
+System.out.println("The division of Value "+a);
 }
-//this is the Version Sum V1.0
+//this is the Version Sum V1.2
