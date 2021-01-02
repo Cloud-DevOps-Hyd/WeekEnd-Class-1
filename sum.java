@@ -15,15 +15,16 @@ System.out.println("The B value is "+b);
 
 
 //division
-
-a=c/b;
-System.out.println("The division of Value "+a);
+int d;
+d=c%b;
+System.out.println("The division of Value "+d);
 
 
 	//multiplication
 	//
-	c=a*a;
-	System.out.println("The C value is here"+c);
+	int e;
+	e=a*a;
+	System.out.println("The C value is here"+e);
 	}
 }
 
